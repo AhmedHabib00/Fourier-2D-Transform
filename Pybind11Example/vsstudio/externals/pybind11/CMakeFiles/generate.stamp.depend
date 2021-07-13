@@ -1,0 +1,16 @@
+# CMake generation dependency list for this directory.
+C:/Users/A.N/Desktop/Pybind11Example/externals/pybind11/CMakeLists.txt
+C:/Users/A.N/Desktop/Pybind11Example/externals/pybind11/tools/FindPythonLibsNew.cmake
+C:/Users/A.N/Desktop/Pybind11Example/externals/pybind11/tools/pybind11Tools.cmake
+E:/cmake-3.20.2-windows-x86_64/share/cmake-3.20/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+E:/cmake-3.20.2-windows-x86_64/share/cmake-3.20/Modules/CMakePackageConfigHelpers.cmake
+E:/cmake-3.20.2-windows-x86_64/share/cmake-3.20/Modules/CMakeParseArguments.cmake
+E:/cmake-3.20.2-windows-x86_64/share/cmake-3.20/Modules/CheckCXXCompilerFlag.cmake
+E:/cmake-3.20.2-windows-x86_64/share/cmake-3.20/Modules/CheckCXXSourceCompiles.cmake
+E:/cmake-3.20.2-windows-x86_64/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+E:/cmake-3.20.2-windows-x86_64/share/cmake-3.20/Modules/FindPackageMessage.cmake
+E:/cmake-3.20.2-windows-x86_64/share/cmake-3.20/Modules/FindPythonInterp.cmake
+E:/cmake-3.20.2-windows-x86_64/share/cmake-3.20/Modules/GNUInstallDirs.cmake
+E:/cmake-3.20.2-windows-x86_64/share/cmake-3.20/Modules/Internal/CheckCompilerFlag.cmake
+E:/cmake-3.20.2-windows-x86_64/share/cmake-3.20/Modules/Internal/CheckSourceCompiles.cmake
+E:/cmake-3.20.2-windows-x86_64/share/cmake-3.20/Modules/WriteBasicConfigVersionFile.cmake

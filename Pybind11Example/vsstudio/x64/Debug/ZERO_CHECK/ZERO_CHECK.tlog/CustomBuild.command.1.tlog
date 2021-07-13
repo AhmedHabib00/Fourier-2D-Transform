@@ -1,0 +1,10 @@
+^C:\USERS\A.N\DESKTOP\PYBIND11EXAMPLE\VSSTUDIO\CMAKEFILES\318C9DF080CD3796998824058AE5F528\GENERATE.STAMP.RULE
+setlocal
+E:\cmake-3.20.2-windows-x86_64\bin\cmake.exe -SC:/Users/A.N/Desktop/Pybind11Example -BC:/Users/A.N/Desktop/Pybind11Example/vsstudio --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/A.N/Desktop/Pybind11Example/vsstudio/pybind11youtube.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
